@@ -7,6 +7,9 @@
 O jogador deve encontrar todos os pares de cartas, revelando as cartas de duas em duas. Caso encontre um par, mantenha as cartas abertas, caso contrário vire as cartas
 para baixo e tente novamente.
 
+## Como executar o Jogo
+Abrir o arquivo index.html no browser de sua preferencia, e iniciar o jogo escolhendo uma das cartar e clicando nela com isso  a mesmo irá virar mostrando seu icone, com isso escolha outra carta e click nela para verificar se encontrou o seu par, fassa isso até encontrar todos os pares de cartas, boa sorte. 
+
 ## Desafio
 Encontrar todos os pares com a menor quantidade de movimentos.
 
